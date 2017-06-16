@@ -1,0 +1,29 @@
+{
+  "name": "math-api",
+  "version": "1.0.0",
+  "description": "Math API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sripradeep/math-api.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "math"
+  ],
+  "author": "sripradeep@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sripradeep/math-api/issues"
+  },
+  "homepage": "https://github.com/sripradeep/math-api#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongodb": "^2.2.28",
+    "mongoose": "^4.10.6"
+  }
+}
