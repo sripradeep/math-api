@@ -2,7 +2,7 @@
   "name": "math-api",
   "version": "1.0.0",
   "description": "Math API",
-  "main": "index.js",
+  "main": "Math.js",
   "scripts": {
     "test": "test"
   },
