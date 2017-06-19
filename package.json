@@ -4,7 +4,7 @@
   "description": "Math API",
   "main": "Math.js",
   "scripts": {
-    "test": "test",
+    "test": "Math.js",
     "start": "Math.js"
   },
   "repository": {
